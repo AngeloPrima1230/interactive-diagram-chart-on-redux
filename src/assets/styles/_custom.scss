@@ -1,0 +1,45 @@
+
+#dialog-form {
+  position: absolute;
+  right:0;
+  top: #{$navbar-height};
+  height: auto;
+  transition: 1s, ease left;
+  width: 300px;
+}
+
+#dialog-form.hide {
+  right: -300px;
+}
+
+.dropdown-menu {
+  background-color: #f3f4fa;
+}
+
+.auth {
+  .auth-form-light {
+    height: calc(100vh - #{$navbar-height});
+    background-color: #f3f4fa;
+  }
+  form {
+    .form-group {
+      .form-control {
+        background-color: #fff;
+      }
+    }
+  }
+}
+
+.sidebar {
+  .nav {
+    .nav-item {
+      .nav-link {
+        .btn-nav-link {
+          visibility: hidden;
+          position: absolute;
+          right: 3px;
+        }
+      }
+    }
+  }
+}
