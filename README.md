@@ -1,4 +1,4 @@
-https://github.com/AngeloPrima1230/interactive-diagram-chart-on-redux/blob/master/diagram.gif
+![Alt Text](https://github.com/AngeloPrima1230/interactive-diagram-chart-on-redux/blob/master/diagram.gif)
 
 # interactive-diagram-chart-on-redux
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
